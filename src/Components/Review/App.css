@@ -1,0 +1,27 @@
+.review__container {
+    max-width: 200px;
+    margin: 100px auto;
+    padding: 10px;
+    text-align: center;
+    background-color:skyblue;
+    border-radius: 5px;
+}
+.img-container {
+    margin: 10px;
+    text-align: center;
+}
+.person-img {
+    border-radius: 50%;
+}
+
+.button-container{
+    text-align: center;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+   
+}
+.btn-surprise {
+   margin-top: 20px;
+}
